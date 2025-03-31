@@ -1,0 +1,39 @@
+/* Style the body */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style an ID selector */
+#title {
+  color: #ff7211; /* Orange color */
+  text-align: center;
+  border-bottom: 3px solid #333;
+  padding-bottom: 10px;
+}
+
+/* Style a class selector */
+.description {
+  color: #333;
+  font-size: 18px;
+  text-align: center;
+  margin: 20px auto;
+  width: 80%;
+}
+.code {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  /* align-items: center; */
+  font-weight: 400;
+  text-align: center;
+}
+.styled-image {
+  /* display: block; */
+  margin: 20px auto;
+  width: 50%;
+  border-radius: 10px;
+  padding: 5px;
+  /* height: 50%; */
+}
